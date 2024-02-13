@@ -1,0 +1,50 @@
+.container {
+    width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    font-family: roboto;
+  }
+  
+  .post-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 30px;
+      margin: 20px 5px 10px 10px;
+  }
+  
+  .post-header p {
+      margin: 0;
+      font-size: 15px;
+  }
+  .post-header span {
+      margin-left: auto;
+  }
+  
+  img {
+      width: 100%;
+  }
+  
+  .post-icons {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    padding-right: 10px;
+  }
+  
+  .post-body span {
+    margin-left: auto;
+  }
+  
+  .HTML5 {
+    padding-left: 10px;
+    
+  }
+  
+  .post-icons i {
+    padding-left: 10px;
+  }
+  
+  .post-body p {
+    padding-left: 10px;
+  }
