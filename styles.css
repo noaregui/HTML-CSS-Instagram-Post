@@ -1,8 +1,10 @@
 .container {
-    width: 600px;
-    margin: 0 auto;
-    background-color: white;
-    font-family: roboto;
+      width: 600px;
+      margin: 50px auto;
+      font-family: roboto;
+      border: black 2px solid;
+      justify-content: center;
+      align-items: center;
   }
   
   .post-header {
